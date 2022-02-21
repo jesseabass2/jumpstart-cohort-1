@@ -2,7 +2,7 @@
 
 So far we've seen the following features of Python: variables, user interactivity, `if` statements, two kinds of loops, and functions. These are features all Python code can use at any point without requesting permission.
 
-However, some features of Python demand a bit more politeness on the part of the programmer. These features must be requested before the are used. In Python we "request" access to a feature using the `import` keyword.
+However, some features of Python demand a bit more politeness on the part of the programmer. These features must be requested before they are used. In Python we "request" access to a feature using the `import` keyword.
 
 > **NOTE:** The good news is Python should never decline your request.
 
